@@ -36,9 +36,9 @@ Key Features:
 
 1. SHG & Community Management
 - Create and manage SHG profiles  
-- Add members 
+- Add members and increase accessibility 
 - Track meetings and activities  
-- Enable transparent group coordination
+- EmpowHer allows women to easily explore job opportunites
 
 2. Skill & Livelihood Recommendation
   - Women entrepreneurs and SHGs can post local job opportunities
@@ -51,20 +51,21 @@ Key Features:
     3. Suggested loan amount
     This helps users make informed decisions before taking loans.
 
-2. Purpose-Based Loan Planning
+3. Purpose-Based Loan Planning
   - Loan requests are directly linked to a selected skill or business idea.
+  - A trust score is also added which will basically be a CIBIL score.
   - This ensures:
     1. Better financial planning
     2. Lower risk of loan misuse
     3. Higher repayment confidence
 
-3. Smart Earnings Optimizer
+4. Smart Earnings Optimizer
   - Helps women compare product/service prices across different markets  
   - Identifies locations or platforms offering better income  
   - Provides recommendations to maximize earnings from the same work  
   - Reduces dependency on middlemen and prevents underpricing
 
-4. Women-Centric Scheme Information Hub
+5. Women-Centric Scheme Information Hub
   - Automatically shows government/NGO schemes a woman is eligible for
   - Eligibility is determined using profile-based rule matching  
   - Clear explanation of benefits, required documents, and enrollment steps  
@@ -76,7 +77,7 @@ Key Features:
   - Selected livelihood option
   - Information is presented in simple, easy-to-understand language.
 
-5. Community-Centric Design
+6. Community-Centric Design
   - Built with the philosophy of “Strength in Numbers”
   - Encourages collective learning, shared growth, and informed decision-making.
   - Designed to work offline or in low-connectivity settings.
