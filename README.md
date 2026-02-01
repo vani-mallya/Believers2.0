@@ -36,7 +36,7 @@ Key Features:
 
 1. SHG & Community Management
 - Create and manage SHG profiles  
-- Add members and assign roles  
+- Add members 
 - Track meetings and activities  
 - Enable transparent group coordination
 
@@ -58,7 +58,13 @@ Key Features:
     2. Lower risk of loan misuse
     3. Higher repayment confidence
 
-3. Women-Centric Scheme Information Hub
+3. Smart Earnings Optimizer
+  - Helps women compare product/service prices across different markets  
+  - Identifies locations or platforms offering better income  
+  - Provides recommendations to maximize earnings from the same work  
+  - Reduces dependency on middlemen and prevents underpricing
+
+4. Women-Centric Scheme Information Hub
   - Automatically shows government/NGO schemes a woman is eligible for
   - Eligibility is determined using profile-based rule matching  
   - Clear explanation of benefits, required documents, and enrollment steps  
@@ -70,29 +76,17 @@ Key Features:
   - Selected livelihood option
   - Information is presented in simple, easy-to-understand language.
 
-4. Community-Centric Design
+5. Community-Centric Design
   - Built with the philosophy of “Strength in Numbers”
   - Encourages collective learning, shared growth, and informed decision-making.
   - Designed to work offline or in low-connectivity settings.
 
-Technical Approach
-
-Frontend: Tkinter (Python desktop application)
-
-Backend Logic: Python
-
-Data Handling: Pandas
-
-Datasets: Curated CSV-based datasets for skills and schemes
-
-Algorithms:
-
-Rule-based, explainable scoring for skill recommendations
-
-Eligibility-based filtering for schemes
-
-📌 No black-box AI — all decisions are transparent and explainable.
-
-Strengthen community-driven growth
+Technical Approach: 
+1. Frontend: Tkinter (Python desktop application)
+2. Backend Logic: Python
+3. Data Handling: Pandas
+4. Datasets: Curated CSV-based datasets for skills and schemes
+5. Algorithms: Rule-based, explainable scoring for skill recommendations
+6. Eligibility-based filtering for schemes
 
 All features are designed to be simple, explainable, and accessible, especially for low-resource and low-connectivity environments.
