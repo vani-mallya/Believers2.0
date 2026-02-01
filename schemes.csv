@@ -1,0 +1,7 @@
+scheme_id,scheme_name,provider,category,eligible_gender,min_age,max_income,requires_shg,benefits,documents_required
+G01,SHG Credit Support Scheme,Government,Loan,Female,18,200000,Yes,Low-interest group loans,Aadhaar;SHG ID;Bank passbook
+G02,Women Skill Development Program,Government,Skill Training,Female,18,300000,No,Free skill training & certification,Aadhaar;Income certificate
+G03,Mudra Yojana - Shishu,Government,Business Loan,Female,21,500000,No,Loan up to 50000,Aadhaar;Bank account;Business plan
+G04,National Rural Livelihood Mission,Government,Welfare,Female,18,250000,Yes,Livelihood & SHG support,Aadhaar;SHG ID
+G05,NGO Micro-Enterprise Grant,NGO,Grant,Female,18,300000,No,Startup grant support,Aadhaar;Project proposal
+G06,Working Women Support Scheme,Government,Welfare,Female,18,400000,No,Financial & housing support,Aadhaar;Income certificate
